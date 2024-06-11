@@ -5,7 +5,7 @@
 % Spin rate: 4.8 rpm
 % Spin axis: major axis during mission
 % Detailed spacecraft data provided in:
-% 
+% Pioneer F/G: Spacecraft Operational Characteristics (NASA/TP-2019-220324)
 
 %% Define satellite parameters
 
